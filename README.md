@@ -16,7 +16,6 @@ The project aims to optimize the menu, improve pricing strategies, and boost rev
 
 ```
 📦 BDM-Capstone/
-├── 📁 presentation/
 │   └── BDM_VIVA.pptx          # Public-facing presentation with key insights
 ├── README.md                   # Public-facing README
 ```
