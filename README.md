@@ -33,7 +33,7 @@ The project aims to optimize the menu, improve pricing strategies, and boost rev
 
 ## 🧰 Tools & Techniques
 
-- **Languages & Libraries**: Python, Pandas, Matplotlib, Seaborn, Scikit-learn  
+- **Languages & Libraries**: Python, Pandas, Numpy, Matplotlib.
 - **Analysis Methods**:
   - Exploratory Data Analysis (EDA)
   - K-Means Clustering
