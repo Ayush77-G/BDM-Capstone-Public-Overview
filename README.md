@@ -96,17 +96,11 @@ This project is intended solely for academic purposes under the IIT Madras BS De
 
 ---
 
-## 📤 Presentation
-
-For a detailed overview of the project, please refer to the public [BDM Capstone Presentation](https://github.com/Ayush77-G/Restaurant-Insights-Overview/blob/main/presentation/BDM_VIVA.pptx).
-
----
-
 ## 🔒 Access to Full Project
 
-This repository provides a **public-facing overview** of the project. For access to the complete analysis, detailed reports, and sales data, please email me at [adhayatm@gmail.com](mailto:adhayatm@gmail.com).  
+This repository provides a **public-facing overview** of the project due to plagirism restrictions from IIT MADRAS. For access to the complete analysis, detailed reports, and sales data, please email me at [adhayatm@gmail.com](mailto:adhayatm@gmail.com).  
 
-Upon request, I will provide the following:
+Upon request, I will add you to my privately hosted repository which will have:
 - Full analysis and reports (Proposal, Midterm, and Final submission)  
 - Detailed sales data  
 - Further recommendations based on the comprehensive analysis
